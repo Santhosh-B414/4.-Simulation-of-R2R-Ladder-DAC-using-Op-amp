@@ -16,9 +16,13 @@ To Simulate R2R-Ladder DAC using Op-amp
  
 
   **CIRCUIT DIAGRAM**
+  <img width="1411" height="331" alt="image" src="https://github.com/user-attachments/assets/54e102c2-5223-4eac-b0d0-c31d24441936" />
+
 
 
   **Output waveform**
+  <img width="1917" height="437" alt="image" src="https://github.com/user-attachments/assets/a127e963-1e06-42c2-a27e-f8ac32ba3b74" />
+
 
 
 
